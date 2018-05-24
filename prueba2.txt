@@ -1,1 +1,2 @@
 Este es el archivo prueba2 que también subiremos a Github.
+Este archivo ha sido modificado.
